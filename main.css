@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Rr"; 
+    src: url("jfj.woff2") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+
+
+h1, h2 {
+    text-align: center;
+}
+#logo {
+    font-family: "Rr";
+    text-align: center;
+    margin: 5px;
+}
+
+#b {
+    margin-left: 20px;
+}
